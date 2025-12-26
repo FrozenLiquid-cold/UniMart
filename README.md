@@ -1,16 +1,21 @@
-# umlapp
+University Marketplace App is a mobile application built with Flutter and Dart that allows university students to buy and sell pre-loved items within their campus community.
 
-A new Flutter project.
+Users can list items for sale, browse available products, comment on listings, and message sellers directly to negotiate or ask questions. The app focuses on affordability, sustainability, and safe peer-to-peer transactions inside a university environment.
 
-## Getting Started
+Tech Stack:
 
-This project is a starting point for a Flutter application.
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Core Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Buy & sell pre-owned items
+
+Item listings with images and descriptions
+
+Comment system for listings
+
+In-app messaging between buyers and sellers
+
+University-focused marketplace
