@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084103529256",
+    "project_id": "universitymarketplace-71a50",
+    "storage_bucket": "universitymarketplace-71a50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084103529256:android:d6b46b1617b2aa5c5d761d",
+        "android_client_info": {
+          "package_name": "UniversityMarketPlace.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084103529256-c56srqkb9223pc8ncu3o7h3vbiigoaft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LKHdg1ed0zU2HY4TPTzzkyJAB6TXE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084103529256-c56srqkb9223pc8ncu3o7h3vbiigoaft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
